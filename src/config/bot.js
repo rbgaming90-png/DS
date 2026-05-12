@@ -33,6 +33,7 @@ export const botConfig = {
       },
     ],
   },
+  
   // =========================
   // COMMAND BEHAVIOR
   // =========================
