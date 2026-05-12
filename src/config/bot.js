@@ -31,7 +31,15 @@ export const botConfig = {
       },
     ],
   },
-
+  
+{
+        // Text users will see (example: "Playing /help | Titan Bot").
+        name: "LOGS",
+        // Activity type number (0 = Playing).
+        type: 0, 
+      },
+    ],
+  },
   // =========================
   // COMMAND BEHAVIOR
   // =========================
