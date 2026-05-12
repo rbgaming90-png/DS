@@ -30,7 +30,7 @@ export const botConfig = {
         // Activity type number (0 = Playing).
         type: 0, 
      
-     },
+    },
     ],
   },
   
